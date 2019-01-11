@@ -1,1 +1,1 @@
-test fetch local
+test fetch local origin
